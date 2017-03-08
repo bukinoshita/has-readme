@@ -18,7 +18,7 @@ $ npm install --save has-readme
 │   └── package.json
 └── project-one
     ├── package.json
-    └── README.md
+    └── readme.md
 ```
 
 ```js
