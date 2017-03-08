@@ -8,7 +8,7 @@ Checks if a README.md file is present in the working directory.
 ## Install
 
 ```bash
-$ npm install --save has-yarn
+$ npm install --save has-readme
 ```
 
 ## Usage
