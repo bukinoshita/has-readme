@@ -3,4 +3,4 @@
 const path = require('path')
 const fs = require('fs')
 
-module.exports = cwd => fs.existsSync(path.resolve(cwd || process.cwd(), 'README.md'))
+module.exports = cwd => fs.existsSync(path.resolve(cwd || process.cwd(), 'README.md' || 'readme.md'))
