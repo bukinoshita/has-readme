@@ -44,8 +44,5 @@ Default: `process.cwd()`
 
 Current working directory.
 
-## Related
-- [trvs](https://github.com/bukinoshita/trvs) — Add TravisCI to your project and README.md
-
 ## License
-[MIT](https://github.com/bukinoshita/travis-init/blob/master/LICENSE) &copy; Bu Kinoshita
+MIT © [Bu Kinoshita](https://bukinoshita.io)

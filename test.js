@@ -1,5 +1,7 @@
+'use strict'
+
 import test from 'ava'
-import hasReadme from './..'
+import hasReadme from './'
 
 test(t => {
   t.false(hasReadme('fixtures/project-zero'))
