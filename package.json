@@ -1,6 +1,6 @@
 {
   "name": "has-readme",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Check if a project has README.md",
   "main": "index.js",
   "repository": {
@@ -9,7 +9,15 @@
   },
   "author": "Bu Kinoshita <bukinoshita@gmail.com>",
   "license": "MIT",
-  "keywords": ["has", "read", "readme", "npm", "github", "docs", "git"],
+  "keywords": [
+    "has",
+    "read",
+    "readme",
+    "npm",
+    "github",
+    "docs",
+    "git"
+  ],
   "scripts": {
     "test": "xo && ava"
   },
